@@ -1,2 +1,2 @@
 # EAL-Tech-SOC-HomeLab
-SOC Home Lab documentation By Ezekiel Libara
+documentation,Network design,asset investory and build plan By Ezekiel Libara
