@@ -83,7 +83,7 @@ All four VMs run inside VMware on EAL-001. One ethernet cable (trunk port) carri
 
 ## Network Diagram
 
-![AD01 Active Directory Network Diagram](./ad01_diagram.svg)
+<img src="./ad01_diagram.svg" width="100%" alt="AD01 Active Directory Network Diagram"/>
 
 ---
 

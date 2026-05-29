@@ -31,7 +31,7 @@ This is a **Purple Team** environment. That means I run both sides:
 
 ## Full Lab Diagram
 
-![EAL Tech Full Lab Diagram](./fulllab_diagram.svg)
+<img src="./fulllab_diagram.svg" width="100%" alt="EAL Tech Full Lab Diagram"/>
 
 ---
 
