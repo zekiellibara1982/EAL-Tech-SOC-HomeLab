@@ -40,7 +40,7 @@ This is a **Purple Team** environment. That means I run both sides:
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [WAZUH01 — Wazuh SIEM](./WAZUH01/README.md) | Deploy and configure Wazuh SIEM to detect and monitor threats across the home lab network | Wazuh · Ubuntu · VMware | ✅ Complete |
-| [AD01 — Active Directory](./AD01/README.md) | Build a complete Active Directory domain with Domain Controller and 3 client workstations | Windows Server 2022 · VMware · ezekiel.lab | 🔄 In Progress |
+| [[AD01 — Active Directory](https://github.com/zekiellibara1982/EAL-Tech-SOC-HomeLab/blob/main/Active%20directory2.pdf)) | Build a complete Active Directory domain with Domain Controller and 3 client workstations | Windows Server 2022 · VMware · ezekiel.lab | ✅ Complete |
 | KALI01 — Red Team | Set up Kali Linux attack platform with Metasploit, BloodHound, and Mimikatz | Kali Linux · Metasploit · BloodHound | ⏳ Coming Soon |
 | ATTACK01 — First Attack Simulation | Simulate a real attack against Active Directory and investigate the alert in Wazuh | Metasploit · Wazuh · TheHive | ⏳ Coming Soon |
 | INCIDENT01 — First Incident Report | Document a full incident investigation from alert to resolution | Wazuh · TheHive · Markdown | ⏳ Coming Soon |
